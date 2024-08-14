@@ -1,3 +1,3 @@
 # demo 
 
-description this is a clothes store website made by kassem deeb.
+description this is a clothes store website made by kassem deeb...
